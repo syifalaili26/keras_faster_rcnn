@@ -2,7 +2,7 @@
 - Keras implementation of Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.<br/>
 cloned from [https://github.com/yhenon/keras-frcnn/](https://github.com/yhenon/keras-frcnn/)
 
-- I use Keras-FasterRCNN to detect and classify pavement distress (line crack, alligator crack, and pothole) using images
+- I use Keras-FasterRCNN to detect and classify pavement distress (line crack, alligator crack, and pothole) using images.
 
 ## UPDATE:
 - supporting inception_resnet_v2
