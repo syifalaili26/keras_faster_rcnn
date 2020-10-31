@@ -1,5 +1,5 @@
 # Keras-FasterRCNN
-Keras implementation of Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.<br/>
+- Keras implementation of Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.<br/>
 cloned from [https://github.com/yhenon/keras-frcnn/](https://github.com/yhenon/keras-frcnn/)
 
 ## UPDATE:
